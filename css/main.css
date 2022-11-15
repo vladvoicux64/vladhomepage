@@ -275,11 +275,10 @@ textarea {
 
 .center {
   text-align: center;
-  font-size: 1.5em;
   margin: 60px;
 }
 .center.footer {
-  font-size: 1em;
+  font-size: 0.5em;
   margin-top: auto;
 }
 
