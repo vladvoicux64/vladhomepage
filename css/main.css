@@ -275,6 +275,8 @@ textarea {
 
 .center {
   text-align: center;
+  margin-left: 60px;
+  margin-right: 60px;
 }
 .center.footer {
   font-size: 0.5em;
