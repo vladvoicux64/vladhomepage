@@ -303,12 +303,11 @@ textarea {
   justify-content: center;
 }
 .navbar {
-  margin: 30px auto; 
+  margin: 30px auto;
   justify-content: space-around;
   overflow: hidden;
   background-color: #333333;
   border-radius: 15px;
-  position: fixed;
 }
 .navbar a {
   float: left;
