@@ -308,7 +308,6 @@ textarea {
   overflow: hidden;
   background-color: #333333;
   border-radius: 15px;
-  position: fixed;
 }
 .navbar a {
   float: left;
