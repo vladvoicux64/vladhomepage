@@ -316,11 +316,11 @@ footer.centered {
   text-align: left;
 }
 
-.box:nth-of-type(3n) {
+.box:nth-of-type(3n), .category:has(:nth-last-child(6)){
   grid-column: span 2;
 }
 
-.box:nth-of-type(5n) {
+.box:nth-of-type(5n), .category:has(:nth-last-child(3)) {
   grid-row: span 2;
 }
 
