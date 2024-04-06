@@ -316,11 +316,11 @@ footer.centered {
   text-align: left;
 }
 
-.box:nth-of-type(3n), .category:has(:nth-last-child(6)){
+.box:nth-of-type(3n), .category:has( :nth-last-child(6)){
   grid-column: span 2;
 }
 
-.box:nth-of-type(5n), .category:has(:nth-last-child(3)) {
+.box:nth-of-type(5n), .category:has( :nth-last-child(3)) {
   grid-row: span 2;
 }
 
@@ -350,3 +350,5 @@ footer.centered {
   color: black;
   background-color: #f2f2f2;
 }
+
+@media screen{}
