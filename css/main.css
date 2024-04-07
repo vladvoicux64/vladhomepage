@@ -12,7 +12,7 @@
    ========================================================================== */
 
 html {
-  color: #f0f0f0;
+  color: #f2f2f2;
   line-height: 1.4;
   background-color: #222222;
   font-family: "Courier New", "Consolas", "Lucida Console", monospace;
@@ -275,21 +275,20 @@ textarea {
 
 .box a {
   text-decoration: none;
-  color: #f0f0f0;
+  color: #f2f2f2;
 }
 
 .centered {
-  text-align: center;
   margin-left: 60px;
   margin-right: 60px;
 }
+
 footer.centered {
   font-size: 0.5em;
   margin-top: auto;
 }
 
 .category {
-  margin-top: 30px;
   padding: 15px;
   border-radius: 30px;
   background: #303030;
@@ -334,16 +333,33 @@ footer.centered {
   color:black;
 }
 
-
-.navbar {
-  margin: 30px auto;
-  justify-content: space-around;
-  overflow: hidden;
-  background-color: #333333;
-  border-radius: 12px;
+header {
+  background: #303030;
+  padding: 10px;
+  border-radius: 30px;
+  margin-top: 30px;
+  margin-bottom: 30px;
 }
 
-.navbar a {
+.navbar {
+  margin-top: 30px;
+  overflow: hidden;
+  border-radius: 30px;
+  width: fit-content;
+  height: min-content;
+}
+
+.navbar_links {
+  justify-content: space-around;
+  display: flex;
+  max-width: 0;
+  overflow: hidden;
+  background-color: #a0a0a0;
+  transition: max-width 0.5s, background-color 3s;
+  white-space: nowrap;
+}
+
+.navbar_links a {
   float: left;
   color: #f2f2f2;
   text-align: center;
@@ -358,8 +374,53 @@ footer.centered {
 }
 
 .navbar a.active {
-  color: black;
+  color: black; !important;
   background-color: #f2f2f2;
+}
+
+.navbar label {
+  cursor: pointer;
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 8px 12px;
+  font-size: 17px;
+  text-decoration: none;
+  background-color: #303030;
+}
+
+.navbar label:hover {
+  color:black;
+  background-color: #a0a0a0;
+}
+
+input#expand {
+  display: none;
+}
+
+input#expand label:before {
+  transition: content 1s;
+}
+
+input#expand + label:before {
+  content: ">";
+}
+
+input#expand:checked + label:before {
+  content: "<";
+}
+
+input#expand:checked ~ a {
+  display: block;
+}
+
+input#expand:checked ~ .navbar_links {
+  max-width: 100%;
+  background-color: #303030;
+}
+
+input#expand:checked ~ .navbar {
+  background-color: #303030;
 }
 
 span.link {
@@ -370,5 +431,3 @@ span.link {
   left: 0;
   z-index: 10;
 }
-
-@media screen{}
