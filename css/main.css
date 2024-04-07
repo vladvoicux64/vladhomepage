@@ -273,7 +273,7 @@ textarea {
   }
 }
 
-h3 a {
+.box a {
   text-decoration: none;
   color: #f0f0f0;
 }
@@ -314,6 +314,7 @@ footer.centered {
   background: #3f3f3f;
   border-radius: 15px;
   text-align: left;
+  position: relative;
 }
 
 .box:nth-of-type(3n), .category:has( :nth-last-child(6)){
@@ -323,6 +324,16 @@ footer.centered {
 .box:nth-of-type(5n), .category:has( :nth-last-child(3)) {
   grid-row: span 2;
 }
+
+.box:hover {
+  color:black;
+  background-color: #a0a0a0;
+}
+
+.box:hover a {
+  color:black;
+}
+
 
 .navbar {
   margin: 30px auto;
@@ -349,6 +360,15 @@ footer.centered {
 .navbar a.active {
   color: black;
   background-color: #f2f2f2;
+}
+
+span.link {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  z-index: 10;
 }
 
 @media screen{}
