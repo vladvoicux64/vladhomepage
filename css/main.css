@@ -316,7 +316,7 @@ footer.centered {
   position: relative;
 }
 
-.box:nth-of-type(3n), .category:has( :nth-last-child(6)){
+.box:nth-of-type(3n), .category:has( :nth-last-child(6)) {
   grid-column: span 2;
 }
 
