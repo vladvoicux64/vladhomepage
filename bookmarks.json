@@ -1,0 +1,712 @@
+[
+  {
+    "category": "Epic kernel adventure",
+    "links": [
+      {
+        "title": "Linux_Kernel_Newbies - Linux Kernel Newbies",
+        "url": "https://kernelnewbies.org/",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "Setting up an x86 CPU in 64-bit mode",
+        "url": "https://thasso.xyz/2024/07/13/setting-up-an-x86-cpu.html",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "The little book about OS development",
+        "url": "https://littleosbook.github.io/",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "How to develop your own Boot Loader - CodeProject",
+        "url": "https://www.codeproject.com/Articles/36907/How-to-develop-your-own-Boot-Loader",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "04 - Kernel development [CS Open CourseWare]",
+        "url": "https://ocw.cs.pub.ro/courses/ass/laboratoare/04",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "linux_performance_tuning.jpg 1.024\u00d7788 pixels",
+        "url": "https://upstate.net/jen/linux_performance_tuning.jpg",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "Linux Vs Hurd",
+        "url": "https://wiki.c2.com/?LinuxVsHurd",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "The funny page table terminology on AMD64 \u2013 pagetable.com",
+        "url": "https://www.pagetable.com/?p=14",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "A Constructive Look At TempleOS",
+        "url": "http://www.codersnotes.com/notes/a-constructive-look-at-templeos/",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "Operating Systems 2 \u2014 The Linux Kernel documentation",
+        "url": "https://linux-kernel-labs.github.io/refs/heads/master/so2/index.html",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "Basics of Futexes - Eli Bendersky's website",
+        "url": "https://eli.thegreenplace.net/2018/basics-of-futexes/",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "Operating Systems",
+        "url": "https://arxiv.org/list/cs.OS/recent",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "SpinLock implementation - code review - The Rust Programming Language Forum",
+        "url": "https://users.rust-lang.org/t/spinlock-implementation/119886",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "Kernel how-to",
+        "url": "https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf#page17",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "Writing a Memory Allocator \u2013 Dmitry Soshnikov",
+        "url": "http://dmitrysoshnikov.com/compilers/writing-a-memory-allocator/",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "From Zero to main(): How to Write a Bootloader from Scratch | Interrupt",
+        "url": "https://interrupt.memfault.com/blog/how-to-write-a-bootloader-from-scratch",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "CS360 Lecture notes -- Setjmp and Longjmp",
+        "url": "https://web.eecs.utk.edu/~mbeck/classes/cs560/360/notes/Setjmp/lecture.html",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "Secure Boot with GRUB 2 and signed Linux images and initrds",
+        "url": "https://ruderich.org/simon/notes/secure-boot-with-grub-and-signed-linux-and-initrd",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "braindump(ag) == braindump(ag)",
+        "url": "https://andrei.gherzan.ro/",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "OS Development Tutorials on Bona Fide OS Developer",
+        "url": "http://www.osdever.net/tutorials/",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "Interrupt Jump Table",
+        "url": "http://www.ctyme.com/intr/int.htm",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "cohost! - \"Basic memory allocators explained in 10 minutes\"",
+        "url": "https://cohost.org/eniko/post/171803-basic-memory-allocat",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "FGA: Mistakes to avoid when designing Unix d\u00e6mon programs",
+        "url": "https://jdebp.uk/FGA/unix-daemon-design-mistakes-to-avoid.html",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "Conversational x86 ASM: Learning to Appreciate Your Compiler \u2022 Matt Godbolt \u2022 YOW! 2020 - YouTube",
+        "url": "https://www.youtube.com/watch?v=7PFwUpXKLrg",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "Instrumenting binaries using revng and LLVM | Layle's Lair",
+        "url": "https://layle.me/posts/instrumentation-with-revng/",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "Fast memcpy, A System Design | SIGARCH",
+        "url": "https://www.sigarch.org/fast-memcpy-a-system-design/",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "ssltta epic website/posts/breaking-fortigate/breaking_fortigate_part1/",
+        "url": "https://ssltta.xyz/posts/breaking-fortigate/breaking_fortigate_part1/#org4aab095",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "The Worst API Ever Made",
+        "url": "https://caseymuratori.com/blog_0025",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "Will's Root: Eternal-Tux: Crafting a Linux Kernel KSMBD 0-Click RCE Exploit from N-Days",
+        "url": "https://www.willsroot.io/2025/09/ksmbd-0-click.html",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "Writing an operating system kernel from scratch",
+        "url": "https://popovicu.com/posts/writing-an-operating-system-kernel-from-scratch/",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "Mmap in dbms",
+        "url": "https://www.cidrdb.org/cidr2022/papers/p13-crotty.pdf",
+        "icon": "\ud83d\udd17"
+      }
+    ]
+  },
+  {
+    "category": "Web",
+    "links": [
+      {
+        "title": "censys",
+        "url": "https://censys.com/",
+        "icon": "\ud83d\udd17"
+      }
+    ]
+  },
+  {
+    "category": "DevOps/System management",
+    "links": [
+      {
+        "title": "How to Create a sftp chroot jail",
+        "url": "https://landoflinux.com/linux_sftp_chroot_jail.html",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "Creating a simple sftp in OL8 using the free resources of OCI. \u2013 LUXOUG \u2013 LUXEMBOURG ORACLE USERS GROUP",
+        "url": "https://www.luxoug.org/creating-a-simple-sftp-in-ol8-using-the-free-resources-of-oci/",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "Computer Networking : Principles, Protocols and Practice, 2nd edition \u2014 Computer Networking : Principles, Protocols and Practice",
+        "url": "https://www.computer-networking.info/2nd/html/index.html",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "Create A Bootable Windows 10 USB Using Linux - Adamsdesk KB",
+        "url": "https://kb.adamsdesk.com/operating_system/create_a_bootable_windows_10_usb_using_linux/",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "How to Use Linux to Create a Bootable Windows 10/11 USB",
+        "url": "https://www.fosslinux.com/109720/creating-a-bootable-windows-10-11-usb-on-linux.htm",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "Moving GPG Keys Privately | VHSblog",
+        "url": "https://vhs.codeberg.page/post/moving-gpg-keys-privately/",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "Useless Use of Cat Award",
+        "url": "https://web.archive.org/web/20160711205930/http://porkmail.org/era/unix/award.html",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "Getting Started With KVM Linux | Baeldung on Linux",
+        "url": "https://www.baeldung.com/linux/kernel-based-virtual-machine/",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "How to Store Dotfiles - A Bare Git Repository | Atlassian Git Tutorial",
+        "url": "https://www.atlassian.com/git/tutorials/dotfiles",
+        "icon": "\ud83d\udd17"
+      }
+    ]
+  },
+  {
+    "category": "Graphics",
+    "links": [
+      {
+        "title": "Texture tiling and swizzling | The ryg blog",
+        "url": "https://fgiesen.wordpress.com/2011/01/17/texture-tiling-and-swizzling/",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "What are Double Buffering, vsync and Triple Buffering? - Triple Buffering: Why We Love It",
+        "url": "https://www.anandtech.com/show/2794/2",
+        "icon": "\ud83d\udd17"
+      }
+    ]
+  },
+  {
+    "category": "AI/ML",
+    "links": [
+      {
+        "title": "A Clear roadmap to complete learning AI/ML by the end of 2022 from ZERO : r/learnmachinelearning",
+        "url": "https://www.reddit.com/r/learnmachinelearning/comments/qlpcl8/comment/hj5mx9h/?utm_source=share&utm_medium=mweb3x&utm_name=mweb3xcss&utm_term=1&utm_content=share_button",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "Practical Deep Learning for Coders - Practical Deep Learning",
+        "url": "https://course.fast.ai/",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "Deep Learning vs Linear Regression | by Piero Paialunga | Towards Data Science",
+        "url": "https://towardsdatascience.com/deep-learning-vs-linear-regression-ea74aca115ea",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "Transfer learning and fine-tuning \u00a0|\u00a0 TensorFlow Core",
+        "url": "https://www.tensorflow.org/tutorials/images/transfer_learning",
+        "icon": "\ud83d\udd17"
+      }
+    ]
+  },
+  {
+    "category": "MCTS",
+    "links": [
+      {
+        "title": "MCTS applications/updates",
+        "url": "https://arxiv.org/pdf/2103.04931.pdf",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "MCTS nvidia guide",
+        "url": "https://www.nvidia.com/docs/IO/116711/sc11-montecarlo.pdf",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "MCTS parallelization",
+        "url": "https://ar5iv.labs.arxiv.org/html/2006.08785",
+        "icon": "\ud83d\udd17"
+      }
+    ]
+  },
+  {
+    "category": "Support vector machines",
+    "links": [
+      {
+        "title": "16. Learning: Support Vector Machines - YouTube",
+        "url": "https://www.youtube.com/watch?v=_PwhiWxHK8o",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "Understanding the mathematics behind Support Vector Machines",
+        "url": "https://shuzhanfan.github.io/2018/05/understanding-mathematics-behind-support-vector-machines/",
+        "icon": "\ud83d\udd17"
+      }
+    ]
+  },
+  {
+    "category": "Statistics",
+    "links": [
+      {
+        "title": "How to learn statistics from scratch | by Oscar Nieves | Medium",
+        "url": "https://oscarnieves100.medium.com/how-to-learn-statistics-from-scratch-27fa79f929c7",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "Naked statistics",
+        "url": "https://cloudflare-ipfs.com/ipfs/bafykbzacednnjqjalttzkihj3lhcwzivt4glgztzsogjeko23iwwsktxirctg?filename=Charles%20Wheelan%20-%20naked%20statistics.%20Stripping%20the%20Dread%20from%20the%20Data-Norton%20%26%20Company%20Inc.%20(2013).pdf",
+        "icon": "\ud83d\udd17"
+      }
+    ]
+  },
+  {
+    "category": "LLMs",
+    "links": [
+      {
+        "title": "AutoTrain_Dreambooth.ipynb - Colaboratory",
+        "url": "https://colab.research.google.com/github/huggingface/autotrain-advanced/blob/main/colabs/AutoTrain_Dreambooth.ipynb",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "philschmid blog",
+        "url": "https://www.philschmid.de/",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "Jay Mody",
+        "url": "https://jaykmody.com/",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "Llama from scratch (or how to implement a paper without crying) | Brian Kitano",
+        "url": "https://blog.briankitano.com/llama-from-scratch/",
+        "icon": "\ud83d\udd17"
+      }
+    ]
+  },
+  {
+    "category": "Neural networks",
+    "links": [
+      {
+        "title": "(4) The Independent Code - YouTube",
+        "url": "https://www.youtube.com/@independentcode",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "CS 230 - Convolutional Neural Networks Cheatsheet",
+        "url": "https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "How to reduce training parameters in CNNs while keeping accuracy >99% | by Sabrina G\u00f6llner | Towards Data Science",
+        "url": "https://towardsdatascience.com/how-to-reduce-training-parameters-in-cnns-while-keeping-accuracy-99-a213034a9777",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "Harm de Vries | An IFT6266 course blog",
+        "url": "https://harmdevries89.wordpress.com/",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "Backprop. explained",
+        "url": "https://alexcpn.github.io/html/NN/ml/8_backpropogation_full/",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "Understanding and implementing Neural Network with SoftMax in Python from scratch - A Developer Diary",
+        "url": "https://www.adeveloperdiary.com/data-science/deep-learning/neural-network-with-softmax-in-python/",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "Categorical cross-entropy loss \u2014 The most important loss function | by neuralthreads | Medium",
+        "url": "https://neuralthreads.medium.com/categorical-cross-entropy-loss-the-most-important-loss-function-d3792151d05b",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "neural network - Is it better to have 1 or 10 output neurons? - Stack Overflow",
+        "url": "https://stackoverflow.com/questions/51954704/is-it-better-to-have-1-or-10-output-neurons",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "Batch Norm Explained Visually \u2014 How it works, and why neural networks need it | by Ketan Doshi | Towards Data Science",
+        "url": "https://towardsdatascience.com/batch-norm-explained-visually-how-it-works-and-why-neural-networks-need-it-b18919692739",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "An Improved Dense CNN Architecture for Deepfake Image Detection \u2013 DOAJ",
+        "url": "https://doaj.org/article/01c00c672b2440f9ba11e62f08d2fc19",
+        "icon": "\ud83d\udd17"
+      }
+    ]
+  },
+  {
+    "category": "General purpouse",
+    "links": [
+      {
+        "title": "Shortcut to seniority",
+        "url": "https://thesenioritybook.com/topics.html",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "Developer Roadmaps - roadmap.sh",
+        "url": "https://roadmap.sh/",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "Paging in Operating Systems: What it Is & How it Works",
+        "url": "https://phoenixnap.com/kb/paging",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "NumPy Supports Multithreaded Parallelism",
+        "url": "https://superfastpython.com/numpy-multithreaded-parallelism/",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "Weird things I learned while writing an x86 emulator // TimDbg",
+        "url": "https://www.timdbg.com/posts/useless-x86-trivia/",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "Modern Microprocessors - A 90-Minute Guide!",
+        "url": "https://www.lighterra.com/papers/modernmicroprocessors/",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "3 Dispatch Techniques",
+        "url": "http://www.cs.toronto.edu/~matz/dissertation/matzDissertation-latex2html/node6.html",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "Threaded code - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Threaded_code#Direct_threading",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "Decrypting Google Chrome Passwords on macOS / OS X",
+        "url": "https://f002.backblazeb2.com/file/sec-news-backup/files/writeup/bufferovernoah.com/_2016_10_17_chrome_/index.html",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "Namespaces and the Interface Principle",
+        "url": "http://www.gotw.ca/publications/mill08.htm",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "Michael Orlitzky { Greybeard's tomb: the lost treasure of language design }",
+        "url": "https://michael.orlitzky.com/articles/greybeards_tomb:_the_lost_treasure_of_language_design.xhtml",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "Radix Sort Revisited",
+        "url": "http://codercorner.com/RadixSortRevisited.htm",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "stereopsis : graphics : radix tricks",
+        "url": "http://stereopsis.com/radix.html",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "Explicit type conversion - cppreference.com",
+        "url": "https://en.cppreference.com/w/cpp/language/explicit_cast",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "What Color is Your Function? \u2013 journal.stuffwithstuff.com",
+        "url": "https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "Builder",
+        "url": "https://refactoring.guru/design-patterns/builder",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "learn-fpga/FemtoRV/TUTORIALS/FROM_BLINKER_TO_RISCV/README.md at master \u00b7 BrunoLevy/learn-fpga \u00b7 GitHub",
+        "url": "https://github.com/BrunoLevy/learn-fpga/blob/master/FemtoRV/TUTORIALS/FROM_BLINKER_TO_RISCV/README.md",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "Does \"vpmovzxbd\" Scare You? Here's Why it Doesn't Have To",
+        "url": "https://questdb.io/blog/does-vpmovzxbd-scare-you/",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "Daily bit(e) of C++ | Optimizing code to run 87x faster",
+        "url": "https://simontoth.substack.com/p/daily-bite-of-c-optimizing-code-to",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "C Programming in Plan 9 from Bell Labs",
+        "url": "https://doc.cat-v.org/plan_9/programming/c_programming_in_plan_9",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "GPUs Go Brrr \u00b7 Hazy Research",
+        "url": "https://hazyresearch.stanford.edu/blog/2024-05-12-tk",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "ClangCheck \u2014 Clang 19.0.0git documentation",
+        "url": "https://clang.llvm.org/docs/ClangCheck.html",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "self reference - C: How to change my own program in my program in runtime? - Stack Overflow",
+        "url": "https://stackoverflow.com/questions/52238441/c-how-to-change-my-own-program-in-my-program-in-runtime",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "c++ - Explicit template instantiation - when is it used? - Stack Overflow",
+        "url": "https://stackoverflow.com/questions/2351148/explicit-template-instantiation-when-is-it-used",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "Anatomy of a Program in Memory | Many But Finite",
+        "url": "https://manybutfinite.com/post/anatomy-of-a-program-in-memory/",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "Interrupt | A community and blog for embedded software makers",
+        "url": "https://interrupt.memfault.com/",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "Standard cells: Looking at individual gates in the Pentium processor",
+        "url": "http://www.righto.com/2024/07/pentium-standard-cells.html",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "Telehack",
+        "url": "https://telehack.com/",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "Paged Out!",
+        "url": "https://pagedout.institute/",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "Static vs. Dynamic | Strong vs. Weak - typing",
+        "url": "https://velog.io/@dhlee91/Static-vs.-Dynamic-Strong-vs.-Weak-typing",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "Avoiding if-else Hell: The Functional Style",
+        "url": "https://lackofimagination.org/2024/09/avoiding-if-else-hell-the-functional-style/",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "OpenBSD on the 2020 M1 MacBook Air",
+        "url": "https://kernelpanic.life/hardware/openbsd-m1-macbook-air.html",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "Chapters - Learn You a Haskell for Great Good!",
+        "url": "https://learnyouahaskell.com/chapters",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "How you average numbers matters",
+        "url": "https://blog.nu42.com/2015/03/how-you-average-numbers.html",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "Beej's Guide to Network Programming",
+        "url": "https://beej.us/guide/bgnet/",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "diziet | Never use git submodules",
+        "url": "https://diziet.dreamwidth.org/14666.html",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "Coroutine Frame-Oriented Programming: Breaking Control Flow Integrity by Abusing Modern C++ - Black Hat USA 2025 | Briefings Schedule",
+        "url": "https://www.blackhat.com/us-25/briefings/schedule/#coroutine-frame-oriented-programming-breaking-control-flow-integrity-by-abusing-modern-c-45928",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": ".:: Phrack Magazine ::.",
+        "url": "https://phrack.org/",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "\u2211 Xah Lee Web \u674e\u6740\u7f51",
+        "url": "http://xahlee.org/",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "tmp.0ut",
+        "url": "https://tmpout.sh/",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "Ken Shirriff's blog",
+        "url": "https://www.righto.com/",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "International Journal of Proof-of-Concept or Get The Fuck Out (PoC||GTFO)",
+        "url": "https://www.alchemistowl.org/pocorgtfo/",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "Welcome to LWN.net [LWN.net]",
+        "url": "https://lwn.net/",
+        "icon": "\ud83d\udd17"
+      }
+    ]
+  },
+  {
+    "category": "C(++) brain rot",
+    "links": [
+      {
+        "title": "c++ - Explicit template instantiation - when is it used? - Stack Overflow",
+        "url": "https://stackoverflow.com/questions/2351148/explicit-template-instantiation-when-is-it-used",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "self reference - C: How to change my own program in my program in runtime? - Stack Overflow",
+        "url": "https://stackoverflow.com/questions/52238441/c-how-to-change-my-own-program-in-my-program-in-runtime",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "ClangCheck \u2014 Clang 19.0.0git documentation",
+        "url": "https://clang.llvm.org/docs/ClangCheck.html",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "C Programming in Plan 9 from Bell Labs",
+        "url": "https://doc.cat-v.org/plan_9/programming/c_programming_in_plan_9",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "Daily bit(e) of C++ | Optimizing code to run 87x faster",
+        "url": "https://simontoth.substack.com/p/daily-bite-of-c-optimizing-code-to",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "Explicit type conversion - cppreference.com",
+        "url": "https://en.cppreference.com/w/cpp/language/explicit_cast",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "Namespaces and the Interface Principle",
+        "url": "http://www.gotw.ca/publications/mill08.htm",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "c++ - What is the difference between public, private, and protected inheritance? - Stack Overflow",
+        "url": "https://stackoverflow.com/questions/860339/what-is-the-difference-between-public-private-and-protected-inheritance",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "What is the difference between the copy constructor and move constructor in C++ - Stack Overflow",
+        "url": "https://stackoverflow.com/questions/64378721/what-is-the-difference-between-the-copy-constructor-and-move-constructor-in-c",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "A sane variant converting constructor - HackMD",
+        "url": "https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2018/p0608r3.html",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "c - Why does scanf enter a loop when I input a character? - Stack Overflow",
+        "url": "https://stackoverflow.com/questions/66723859/why-does-scanf-enter-a-loop-when-i-input-a-character",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "c++ - How to correctly use smart pointers inside of a class - Stack Overflow",
+        "url": "https://stackoverflow.com/questions/67147097/how-to-correctly-use-smart-pointers-inside-of-a-class",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "Parsing Command Line Arguments in C++? - Stack Overflow",
+        "url": "https://stackoverflow.com/questions/865668/parsing-command-line-arguments-in-c",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "A beginners' guide away from scanf()",
+        "url": "https://sekrit.de/webdocs/c/beginners-guide-away-from-scanf.html",
+        "icon": "\ud83d\udd17"
+      }
+    ]
+  },
+  {
+    "category": "OP-TEE",
+    "links": [
+      {
+        "title": "optee_os/lib/libutee/include/pta_attestation.h at master \u00b7 OP-TEE/optee_os",
+        "url": "https://github.com/OP-TEE/optee_os/blob/master/lib/libutee/include/pta_attestation.h#L30",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "optee_os/lib/libutee/include/tee_api_defines.h at 1c32a0ea6beeeeaaef3ff7bf2e5d4015555dfae8 \u00b7 OP-TEE/optee_os",
+        "url": "https://github.com/OP-TEE/optee_os/blob/1c32a0ea6beeeeaaef3ff7bf2e5d4015555dfae8/lib/libutee/include/tee_api_defines.h#L123",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "optee_test/host/xtest/regression_1000.c at 178f3b12a761b1ebcf813da27dfcc825c523989b \u00b7 OP-TEE/optee_test",
+        "url": "https://github.com/OP-TEE/optee_test/blob/178f3b12a761b1ebcf813da27dfcc825c523989b/host/xtest/regression_1000.c#L2923",
+        "icon": "\ud83d\udd17"
+      },
+      {
+        "title": "Secure Boot, TPM and Anti-Cheat Engines \u2013 Andrew Moore",
+        "url": "https://andrewmoore.ca/blog/post/anticheat-secure-boot-tpm/",
+        "icon": "\ud83d\udd17"
+      }
+    ]
+  }
+]
